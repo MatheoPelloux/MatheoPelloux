@@ -12,4 +12,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=MatheoPelloux&limit=5&theme=white&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MatheoPelloux&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MatheoPellouxx&label=MatheoPelloux&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
